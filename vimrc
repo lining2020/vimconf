@@ -4,7 +4,6 @@
 call plug#begin('~/.vim/plugged')
 
 " Make sure you use single quotes
-Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'fatih/vim-go', { 'tag': '*' }
 Plug 'jstemmer/gotags'
 Plug 'majutsushi/tagbar'
